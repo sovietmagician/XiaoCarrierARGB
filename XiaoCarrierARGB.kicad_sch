@@ -345,6 +345,15 @@
 			(embedded_fonts no)
 		)
 	)
+	(bus_entry
+		(at 173.99 86.995)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfe8c043-5fc3-424d-ae5b-e7ad4d28e506")
+	)
 	(symbol
 		(lib_id "SeeedXiao:XIAO-ESP32-C6-DIP")
 		(at 197.485 93.345 0)
