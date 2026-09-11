@@ -345,18 +345,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(bus_entry
-		(at 173.99 86.995)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfe8c043-5fc3-424d-ae5b-e7ad4d28e506")
-	)
 	(symbol
 		(lib_id "SeeedXiao:XIAO-ESP32-C6-DIP")
-		(at 197.485 93.345 0)
+		(at 90.17 83.185 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -367,7 +358,7 @@
 		(fields_autoplaced yes)
 		(uuid "01e197f6-6d95-4cc0-9255-baf16df05add")
 		(property "Reference" "U1"
-			(at 196.215 79.375 0)
+			(at 88.9 69.215 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -377,7 +368,7 @@
 			)
 		)
 		(property "Value" "XIAO-ESP32-C6-DIP"
-			(at 196.215 81.915 0)
+			(at 88.9 71.755 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -387,7 +378,7 @@
 			)
 		)
 		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-ESP32-C6-DIP"
-			(at 197.485 93.345 0)
+			(at 90.17 83.185 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -398,7 +389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 197.485 93.345 0)
+			(at 90.17 83.185 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -409,7 +400,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 197.485 93.345 0)
+			(at 90.17 83.185 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
