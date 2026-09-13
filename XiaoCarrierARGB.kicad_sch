@@ -3038,7 +3038,7 @@
 	)
 	(text "MAYBE SWITCH TO TPP3620813?? for forced PWM\n lookinto skip pulse for application"
 		(exclude_from_sim no)
-		(at 71.755 30.48 0)
+		(at 70.485 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5228,10 +5228,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "42141635-d6d1-434e-b694-60dfd24c40bf")
 		(property "Reference" "F1"
-			(at 31.75 34.29 90)
+			(at 31.75 37.465 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5240,8 +5239,9 @@
 				)
 			)
 		)
-		(property "Value" "2A"
+		(property "Value" "YAGEO SMD1812B110TF/33"
 			(at 31.75 36.83 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5250,7 +5250,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 36.83 38.735 0)
 			(hide yes)
 			(show_name no)
@@ -5262,7 +5262,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/SMD1812_1.pdf"
 			(at 31.75 40.005 0)
 			(hide yes)
 			(show_name no)
@@ -6854,7 +6854,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "aa5480c7-8c03-48ae-b393-f5b00a833b44")
 		(property "Reference" "D1"
 			(at 105.41 82.2324 90)
@@ -6868,7 +6867,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 105.41 84.7724 90)
+			(at 105.41 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7260,7 +7259,7 @@
 				)
 			)
 		)
-		(property "Value" "Power IN(7-24V)"
+		(property "Value" "V_{IN}^{10-24V}"
 			(at 20.32 37.465 0)
 			(show_name no)
 			(do_not_autoplace no)
