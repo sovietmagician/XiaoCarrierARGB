@@ -514,21 +514,21 @@
       },
       {
         "name": "Analog",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(218, 30, 255)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "Data",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 141, 59)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "Power",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(50, 255, 209)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
@@ -567,6 +567,10 @@
       {
         "netclass": "Power",
         "pattern": "/SWITCHNODE"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GND"
       }
     ]
   },
