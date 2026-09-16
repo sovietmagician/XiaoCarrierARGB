@@ -3555,6 +3555,12 @@
 		(uuid "21cad0d6-c7d5-4623-8fe7-45a0b3015dca")
 	)
 	(junction
+		(at 44.45 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29babbe5-a2b5-4580-a6e1-d979697f9fe0")
+	)
+	(junction
 		(at 24.13 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3639,6 +3645,12 @@
 		(uuid "6970dac5-b331-46ad-b27e-90be91060723")
 	)
 	(junction
+		(at 44.45 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c3fa4bd-eb04-4328-b7c4-c622c78639bb")
+	)
+	(junction
 		(at 58.42 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3693,7 +3705,7 @@
 		(uuid "a8c743d3-0c64-4bed-8d75-6d0f12dc6cb8")
 	)
 	(junction
-		(at 34.29 50.8)
+		(at 33.02 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af8702b2-c18f-409f-acbd-bb77fd801fea")
@@ -3968,6 +3980,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 50.8) (xy 52.07 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "229b53ae-8fee-49ba-9896-9d88427237e8")
+	)
+	(wire
+		(pts
 			(xy 237.49 82.55) (xy 241.3 82.55)
 		)
 		(stroke
@@ -4035,16 +4057,6 @@
 			(type default)
 		)
 		(uuid "2f0f698c-dd4d-49b0-b961-3572f94b3a24")
-	)
-	(wire
-		(pts
-			(xy 34.29 50.8) (xy 52.07 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "300a6cdd-a9d5-49d4-8479-2a47892b79cc")
 	)
 	(wire
 		(pts
@@ -4688,6 +4700,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 45.72) (xy 44.45 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b09c6419-b10a-48fe-b9e5-9225a80437e0")
+	)
+	(wire
+		(pts
 			(xy 111.76 38.1) (xy 114.3 38.1)
 		)
 		(stroke
@@ -4728,7 +4750,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 50.8) (xy 34.29 50.8)
+			(xy 20.32 50.8) (xy 44.45 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4848,7 +4870,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 40.64) (xy 52.07 40.64)
+			(xy 41.91 40.64) (xy 44.45 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5125,6 +5147,16 @@
 			(type default)
 		)
 		(uuid "fc7aaa88-f05f-4ae6-88ae-5587b72f99e4")
+	)
+	(wire
+		(pts
+			(xy 44.45 40.64) (xy 52.07 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcb3569d-08ce-403e-a56b-81eb38e76943")
 	)
 	(wire
 		(pts
@@ -6441,7 +6473,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 34.29 50.8 0)
+		(at 33.02 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6452,7 +6484,7 @@
 		(fields_autoplaced yes)
 		(uuid "237e34e9-ac5a-43ad-b3da-e2398761a2db")
 		(property "Reference" "#FLG03"
-			(at 34.29 48.895 0)
+			(at 33.02 48.895 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6463,7 +6495,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 34.29 46.355 0)
+			(at 33.02 46.355 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6473,7 +6505,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 50.8 0)
+			(at 33.02 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6484,7 +6516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 50.8 0)
+			(at 33.02 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6495,7 +6527,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 34.29 50.8 0)
+			(at 33.02 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7197,7 +7229,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 234.95 87.63 90)
+		(at 234.95 87.63 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7813,7 +7846,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 234.95 92.71 90)
+		(at 234.95 92.71 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12068,7 +12102,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 234.95 82.55 90)
+		(at 234.95 82.55 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12391,6 +12426,85 @@
 			(project "XiaoCarrierARGB"
 				(path "/e1106a3e-58d8-419c-bcd2-ced17f637917"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 44.45 43.18 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f31e578f-c5f9-41f5-9d36-83d59f83691d")
+		(property "Reference" "C8"
+			(at 44.45 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100n"
+			(at 40.64 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 44.45 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 44.45 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "927d713d-902b-4f7f-8553-2e7c6ae4d308")
+		)
+		(pin "2"
+			(uuid "07cce430-c067-4ff1-abd8-a32985142448")
+		)
+		(instances
+			(project "XiaoCarrierARGB"
+				(path "/e1106a3e-58d8-419c-bcd2-ced17f637917"
+					(reference "C8")
 					(unit 1)
 				)
 			)
