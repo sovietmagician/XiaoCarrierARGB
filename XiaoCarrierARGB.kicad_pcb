@@ -857,6 +857,45 @@
 				)
 			)
 		)
+		(property "MPN" "TLV75733PDBVR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff5f208a-b682-498e-b886-c29f8cba26fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey Part" "296-50414"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36db3db7-e156-4663-a428-b8363cf818da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C485517"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2015e76-4847-435b-a2f0-566160f2b1cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/fa928375-565c-434d-a1d7-2aa0b5c46bbb")
 		(sheetname "/")
@@ -12471,6 +12510,12 @@
 		(path "/54129423-2498-4261-a867-2905405aa4ee")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -12656,6 +12701,12 @@
 		(path "/d8e426a0-4362-4e7b-af29-36f157529359")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -12841,6 +12892,12 @@
 		(path "/c2440241-0b98-41e8-82f4-fb2c16dc5fa2")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -13682,6 +13739,12 @@
 		(path "/99438c60-3996-411a-9394-7eca7d08f3b3")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -13867,6 +13930,12 @@
 		(path "/990d2d4e-3426-4fe7-9e1e-d13ea14238f6")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -14052,6 +14121,12 @@
 		(path "/a5815de7-b0b8-4adb-8383-314fee601ef0")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -14452,6 +14527,12 @@
 		(path "/9a731e29-f9f9-4f53-b842-108d32f64a36")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -17697,6 +17778,12 @@
 		(path "/91aea4bc-9288-4cd6-bc1d-01b28cb82795")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(zone_connect 1)
 		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
