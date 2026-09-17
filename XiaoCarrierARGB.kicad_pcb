@@ -45,6 +45,7 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
+				(color "Black")
 				(thickness 0.01)
 			)
 			(layer "F.Cu"
@@ -86,6 +87,7 @@
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
+				(color "Black")
 				(thickness 0.01)
 			)
 			(layer "B.Paste"
@@ -94,7 +96,7 @@
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
 			)
-			(copper_finish "None")
+			(copper_finish "HAL SnPb")
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
@@ -113,6 +115,7 @@
 		)
 		(capping no)
 		(filling no)
+		(zone_defaults)
 		(grid_origin 88.25 119.05)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
