@@ -19738,7 +19738,7 @@
 		(uuid "7331d8b5-3f95-4c47-b963-4bd83fe81ef3")
 	)
 	(via
-		(at 124.95 110.2)
+		(at 123.75 111.45)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
