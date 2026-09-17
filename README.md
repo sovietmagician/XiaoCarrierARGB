@@ -21,4 +21,4 @@ Adressable RGB carrier board for Seeed Xiao Esp32 modules, deisgned for c6 or s3
 ---
 
 ### USER INFO
-
+[Interactive Bill of Materials](https://sovietmagician.github.io/XiaoCarrierARGB/bom/ibom.html "IBOM")
