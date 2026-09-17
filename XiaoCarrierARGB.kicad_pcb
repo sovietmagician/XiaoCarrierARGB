@@ -18120,6 +18120,18 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "12-24V only"
+		(at 98.25 106.05 0)
+		(layer "B.SilkS" knockout)
+		(uuid "75eafc17-7d90-405a-b164-5d54b98069e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "GND"
 		(at 103.45 91.65 0)
 		(layer "B.SilkS" knockout)
@@ -18308,6 +18320,28 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify bottom mirror)
+		)
+	)
+	(gr_text "-"
+		(at 98.363095 111.55 -0)
+		(layer "B.SilkS")
+		(uuid "b4185222-904b-44c6-85d2-257bc87fb303")
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 97.05 108.55 -0)
+		(layer "B.SilkS" knockout)
+		(uuid "ed83f279-56b4-45b4-87b4-b138eb49a705")
+		(effects
+			(font
+				(size 2 2)
 			)
 			(justify bottom mirror)
 		)
