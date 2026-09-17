@@ -10140,7 +10140,7 @@
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U4"
-			(at 0 -2.4 0)
+			(at 2.1625 -2.325 0)
 			(layer "F.SilkS")
 			(uuid "64d56772-0846-4c6f-a72b-e7cc1d0f206b")
 			(effects
