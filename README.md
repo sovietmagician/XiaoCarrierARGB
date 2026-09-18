@@ -21,4 +21,38 @@ Adressable RGB carrier board for Seeed Xiao Esp32 modules, deisgned for c6 or s3
 ---
 
 ### USER INFO
+
 [Interactive Bill of Materials](https://sovietmagician.github.io/XiaoCarrierARGB/bom/ibom.html "IBOM")
+
+The following components are NOT OPTIONAL
+- C2 C3 C6 C7
+  - These capacitors are necessary for the operation of the buck converter a provisional value of 22µF was selected but it is possible more may be necessary
+- C5
+  - Bootstrap capacitor should be 100nF
+
+- L1
+  - The main inductor for the buck converter without it it just wont function at all
+- D1
+  - Needed to allow the Xiao to be both plugged in to a computer and have its primary input voltage connected
+- U2
+  - The buck converter IC without it it will not accept 12-24V input and the level shifters will not be able to drive the RGB data lines
+- R1 R2
+  - Feedback resistors to allow the buck to actually regulate to the correct (5) Voltage. These must be populated at the right values in the right spots, R1-110kΩ R2-15kΩ
+
+The following components are highly recommended
+- U1 
+  - The LDO for the 3.3V pins on the GPIO breakout, while not STRICTLY necessary it is highly recommended 
+- C1 C4
+  - These 1µF capacitors are necessary for 3.3V LDO functionality to supply power to the power pins accompanying the GPIO breakouts A higher value may be used but the total capacitance on this line MAY NOT exceed 10µF to keep the Xiao's VBUS pin inline with USB spec
+- F1
+  - Input protection to prevent the board from drawing too much current, should save the board in the event of shorts or overcurrent events
+- U4 U5 U6
+  - these are the level shifters to drive the LED strips, not all need to be populated but populating none is kind of silly 
+- C8
+  - A good decoupling cap of 100nF is nice to have and since the previous 100nF cap is necessary theres no real reason not to populate it 
+  
+The following are strictly optional
+- R3-R10
+  - these are pull up/down resistors meant to allow for ease of use of the GPIO breakouts some communication busses need pull ups or pull downs and its just usecase dependant
+- R11-13
+  - these are series resistors meant to minimize reflections in the even of exceptionally long data line runs(ie there is a very long wire between the board and the first IC on the LED strip) can be subbed for 0Ω resistors or pads can be bridged with solder or wire
