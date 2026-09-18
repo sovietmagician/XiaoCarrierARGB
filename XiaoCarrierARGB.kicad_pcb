@@ -45,7 +45,7 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
-				(color "Black")
+				(color "Green")
 				(thickness 0.01)
 			)
 			(layer "F.Cu"
@@ -87,7 +87,7 @@
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
-				(color "Black")
+				(color "Green")
 				(thickness 0.01)
 			)
 			(layer "B.Paste"
@@ -115,6 +115,7 @@
 		)
 		(capping no)
 		(filling no)
+		(zone_defaults)
 		(grid_origin 88.25 119.05)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
