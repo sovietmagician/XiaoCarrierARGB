@@ -15,15 +15,17 @@ Adressable RGB carrier board for Seeed Xiao Esp32 modules, deisgned for c6 or s3
   - 5V
   - 3.3V
   - GND
-- 1.5 Amps of 5V output 
+- 1.5 Amps of 5V output
 - 1 Amp of 3.3V output
 
 ---
 
-### USER INFO
+## USER INFO
 
+### BoM
 [Interactive Bill of Materials](https://sovietmagician.github.io/XiaoCarrierARGB/bom/ibom.html "IBOM")
 
+### Notes about componet placement/population
 The following components are NOT OPTIONAL
 - C2 C3 C6 C7
   - These capacitors are necessary for the operation of the buck converter a provisional value of 22µF was selected but it is possible more may be necessary
