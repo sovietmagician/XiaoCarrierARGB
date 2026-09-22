@@ -27,7 +27,7 @@ Adressable RGB carrier board for Seeed Xiao Esp32 modules, deisgned for c6 or s3
 Component Manufacturer Part Numbers are included for ICs and certain passives with critical values. In addition Digikey and LCSC(chinese) part distributor numbers are included in the BoM as well. The part numbers for passives have been left blank as an excercise for the reader. Note for C2 C3 C8, __these capacitors must be rated to 30V at a minimum__.
 ### Notes about componet placement/population
 The following components are NOT OPTIONAL
-- C2 C3 C6 C7
+- C2 C3 C5 C6 C7
   - These capacitors are necessary for the operation of the buck converter a provisional value of 22µF was selected but it is possible more may be necessary
 - C5
   - Bootstrap capacitor should be 100nF
