@@ -5604,6 +5604,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 201.93 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1b8c3f5-8c09-4e08-ac15-d8485c069572")
 		)
@@ -5687,6 +5698,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 127 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
 			(at 127 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5812,6 +5834,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 114.3 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7523b264-732d-4b8e-bf6b-fe5a372ee1f6")
 		)
@@ -5883,6 +5916,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 151.13 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 151.13 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5964,6 +6008,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 93.98 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 93.98 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6164,6 +6219,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 91.44 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4093642c-3935-419d-951a-a38a79d6b2b6")
 		)
@@ -6279,6 +6345,17 @@
 		)
 		(property "DigiKey Part" "74LVC1T45W6-7DICT-ND"
 			(at 201.676 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 201.93 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6695,6 +6772,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 95.25 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "70fd6b1a-16f1-41a4-a052-83c7c1546897")
 		)
@@ -6845,6 +6933,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 173.99 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 173.99 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7011,6 +7110,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 161.29 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "844ac321-5996-4dd6-bdc9-104dd1529477")
 		)
@@ -7100,6 +7210,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 151.13 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 151.13 129.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7212,6 +7333,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 31.75 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dbf31561-3a93-4c8f-861f-96d80f83e755")
 		)
@@ -7284,6 +7416,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 234.95 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 234.95 87.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7408,6 +7551,17 @@
 		)
 		(property "DigiKey Part" "74LVC1T45W6-7DICT-ND"
 			(at 201.676 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 201.93 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7553,6 +7707,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 71.12 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "09548b0c-d167-469d-b316-0945e38fce45")
 		)
@@ -7663,6 +7828,17 @@
 			(at 165.1 128.27 0)
 			(hide yes)
 			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 144.78 128.27 90)
+			(hide yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -7901,6 +8077,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 234.95 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 234.95 92.71 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8292,6 +8479,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 52.07 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 52.07 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8693,6 +8891,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 57.15 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a8dfcb5-702a-4293-8333-1773d40b030c")
 		)
@@ -9009,6 +9218,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 95.25 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "270fa664-e7d3-49c6-916e-ae3526ec6019")
 		)
@@ -9106,6 +9326,17 @@
 			(at 80.01 128.27 0)
 			(hide yes)
 			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 100.33 128.27 90)
+			(hide yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -9430,6 +9661,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 86.36 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "08648822-2caf-40c0-8ebd-dd733086d06f")
 		)
@@ -9630,6 +9872,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 180.34 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "a3f3249b-7033-4c8a-a00f-bc32ea099bf5")
 		)
@@ -9728,6 +9981,17 @@
 			(at 144.78 138.43 0)
 			(hide yes)
 			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 144.78 118.11 0)
+			(hide yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -9921,6 +10185,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 64.77 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "14f3aaa7-eb44-48c0-8079-5efbf1e33adc")
 		)
@@ -10027,6 +10302,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 100.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "7fc7c74e-3783-4b3d-ac3c-6d418e6a3bee")
 		)
@@ -10102,6 +10388,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 173.99 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 173.99 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10216,6 +10513,17 @@
 			)
 		)
 		(property "LCSC Part" "C7355752"
+			(at 107.95 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
 			(at 107.95 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -10853,6 +11161,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 71.12 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dd0a644b-4071-4db8-8df3-427dbed2be7f")
 		)
@@ -10923,6 +11242,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 69.85 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 69.85 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11034,6 +11364,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 64.77 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "a9033893-836b-4b3c-bb76-9e003e229153")
 		)
@@ -11106,6 +11447,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 15.24 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
 			(at 15.24 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11265,6 +11617,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 71.12 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 71.12 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11434,6 +11797,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 246.38 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c77fa990-a995-458d-ae51-f98578d07db5")
 		)
@@ -11579,6 +11953,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 48.26 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 48.26 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11847,6 +12232,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 180.34 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ad191800-6ee6-42bd-abf7-0628b8753f8e")
 		)
@@ -12011,6 +12407,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 106.68 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "43995ee0-5283-4fc7-8ae4-50afa62c83da")
 		)
@@ -12157,6 +12564,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 234.95 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 234.95 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12404,6 +12822,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 246.38 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "7821b58b-5361-43b5-aab8-5cd81d476619")
 		)
@@ -12452,7 +12881,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 40.64 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12486,6 +12915,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 44.45 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 44.45 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12567,6 +13007,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 93.98 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 93.98 129.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12691,6 +13142,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 58.42 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "08c6e410-5b3a-4103-b9e0-edb45c91aac0")
 		)
@@ -12779,6 +13241,17 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 109.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5889e63-8f78-4890-bbcc-f11b463a3fe0")
 		)
@@ -12815,7 +13288,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 92.075 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12849,6 +13322,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 87.63 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 87.63 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
