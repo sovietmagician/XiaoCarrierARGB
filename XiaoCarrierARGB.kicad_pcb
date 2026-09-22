@@ -267,6 +267,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ae5c799-e4a7-4f20-97f9-8120ebbc0683")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/16bae64c-ea89-493e-88d0-fd7df77a97a3")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
@@ -628,6 +641,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f8460ef-eabe-4dc1-a1eb-bd3a62aa70cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/db5bf7d6-12e8-40db-8684-31ba3f4d8f2d")
 		(sheetname "/")
@@ -891,6 +917,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f2015e76-4847-435b-a2f0-566160f2b1cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5a4c686-7383-454a-b5bc-9cdcb86316a2")
 			(effects
 				(font
 					(size 1 1)
@@ -1277,7 +1316,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1300,10 +1339,29 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d2d7c0e-23fc-490f-b5cc-861692857cfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fb40f770-d4dd-4a92-ae49-7896efa66580")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1476,6 +1534,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c1409d8d-163d-4007-922b-4b2222fa3479")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "844c1592-70ea-4434-ae64-4769ffa71af9")
 			(effects
 				(font
 					(size 1 1)
@@ -1771,6 +1842,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0c694c5-c3b0-4b38-b374-40bba2031a17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c2ffd32c-fd58-4a7f-9b91-49e41e4ddd2b")
 		(sheetname "/")
@@ -2005,6 +2089,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6876f5bc-d834-4293-bd2c-25a8c1c3fdb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5221a2a9-0a2b-476c-84ee-be06ff1f9768")
 			(effects
 				(font
 					(size 1 1)
@@ -2827,7 +2924,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2850,10 +2947,29 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e56dcef4-8a1f-4fca-8389-13650da87ea7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/78c35bf5-37aa-4f7d-8982-f0e0f5b1685e")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3034,6 +3150,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0a7b863f-0089-45b6-8af4-2482951242a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed9487ba-440e-4641-8ee8-9c7e58416674")
 			(effects
 				(font
 					(size 1 1)
@@ -3303,6 +3432,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "27706510-9a75-44d0-9948-9ed5233cea47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f73e394-e3db-49df-a21b-561872dd63cc")
 			(effects
 				(font
 					(size 1 1)
@@ -3617,6 +3759,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee4fe6a6-7aa6-449b-b022-e8de7e892473")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/98a4b13f-8253-4317-9dee-13e8fb153588")
 		(sheetname "/")
@@ -3917,6 +4072,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bd674a0f-30b4-4a5d-a1cd-e5898f790f51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5cc66e8e-2f54-44df-ad1c-d669fab332b9")
 			(effects
 				(font
 					(size 1 1)
@@ -8157,6 +8325,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfce9110-0957-4fb3-adba-c17baba749ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/42141635-d6d1-434e-b694-60dfd24c40bf")
 		(sheetname "/")
@@ -8360,6 +8541,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a2fc041-2cdc-4064-8870-38a238ab018e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a89b6ac-4978-4d03-a369-919eb3a87480")
 			(effects
 				(font
 					(size 1 1)
@@ -8729,6 +8923,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "187864d5-e261-42a1-a49a-ab7d55e55a3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ccf1fbf9-ecec-499a-b0d1-e2a0beaa8db4")
 		(sheetname "/")
@@ -8897,14 +9104,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "8c46c873-053a-4330-9b16-ea39e92775e6")
 		(at 141.05 99.93 180)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R12"
-			(at -0.2 -1.65 180)
+			(at 0 -1.65 180)
 			(layer "F.SilkS")
 			(uuid "d16346b8-768c-4728-8a76-6b1007a75162")
 			(effects
@@ -8936,7 +9143,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8959,11 +9166,30 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61380dc6-b0f6-4717-b548-b2c67c94428e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/44224016-cefc-4689-a67d-7183acdfb496")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 0.735)
@@ -8986,8 +9212,8 @@
 			(uuid "ff3989ed-74e2-4e10-bfd3-c3b0d4dd63c1")
 		)
 		(fp_rect
-			(start -1.85 -0.95)
-			(end 1.85 0.95)
+			(start -1.68 -0.95)
+			(end 1.68 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -9019,19 +9245,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 180)
-			(size 1.2 1.4)
+			(at -0.9125 0 180)
+			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(J6-Pin_3)")
 			(pintype "passive")
 			(uuid "574b5c8c-f04a-4868-9b90-e23fe5548ba3")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 180)
-			(size 1.2 1.4)
+			(at 0.9125 0 180)
+			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/LED_DATA^{2}")
 			(pintype "passive")
 			(uuid "20a32717-9026-483c-8877-57076b40d404")
@@ -9049,14 +9275,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "9f0b2ea7-1381-4062-a958-dd9addba5592")
 		(at 141.05 94.85 180)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R13"
-			(at -0.2 -1.65 180)
+			(at 0 -1.65 180)
 			(layer "F.SilkS")
 			(uuid "74c7f319-ed95-46c6-be87-4d4f6aebb6a3")
 			(effects
@@ -9088,7 +9314,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -9111,11 +9337,30 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "993e0b8f-db72-465a-8efd-395f8f5893f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/615be43d-1379-47ce-aff3-4ea80728d82e")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 0.735)
@@ -9138,8 +9383,8 @@
 			(uuid "71f62c2f-011e-4c66-bb80-9eca0c328bd5")
 		)
 		(fp_rect
-			(start -1.85 -0.95)
-			(end 1.85 0.95)
+			(start -1.68 -0.95)
+			(end 1.68 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -9171,19 +9416,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 180)
-			(size 1.2 1.4)
+			(at -0.9125 0 180)
+			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(J6-Pin_5)")
 			(pintype "passive")
 			(uuid "7cec3d6c-5576-4db7-ac07-631095fc3803")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 180)
-			(size 1.2 1.4)
+			(at 0.9125 0 180)
+			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/LED_DATA^{3}")
 			(pintype "passive")
 			(uuid "671e0cd4-0c78-443a-b0d0-96c8192e2ec6")
@@ -9240,7 +9485,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9263,10 +9508,29 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f9cc43a-144b-4fdc-b912-9413e75f49f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/02ea66fa-3e59-412f-a902-b0d4e4844054")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9408,6 +9672,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d95dd216-d50f-4666-8fdf-b794f2fa8bc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2875c31a-b6db-44cb-8078-48b64e958b99")
 			(effects
 				(font
 					(size 1 1)
@@ -9560,6 +9837,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3771a35b-fc90-4b8f-95ac-7b1b36d90edb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10258,6 +10548,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b872ffea-6b17-433e-a202-4adcdfb6cd0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/01728f0b-44ab-45e7-964c-1a2febea46b3")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
@@ -10619,6 +10922,19 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c5cc342-8297-4d58-945d-00088d9d1116")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c1241aab-ab42-4c48-b70c-b177bcfcfdf7")
 		(sheetname "/")
@@ -10770,6 +11086,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "53742d3a-29e4-4433-9376-29d600a7469b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12671203-34dc-476c-925c-e3d4f3d6b951")
 			(effects
 				(font
 					(size 1 1)
@@ -11000,14 +11329,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "d6155139-2876-4cb9-810b-739e4abadf7a")
 		(at 141.05 105.01 180)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R11"
-			(at -0.2 -1.65 180)
+			(at 0 -1.65 180)
 			(layer "F.SilkS")
 			(uuid "5669ee23-60a1-495d-906d-996bd2f2eaef")
 			(effects
@@ -11039,7 +11368,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -11062,11 +11391,30 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7475754e-df31-4322-b2ae-3a08e5b12372")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2c2f45-2ecb-4a10-a6f8-641974e04fa4")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 0.735)
@@ -11089,8 +11437,8 @@
 			(uuid "febe1ba1-2854-4d51-832b-21afd1570c72")
 		)
 		(fp_rect
-			(start -1.85 -0.95)
-			(end 1.85 0.95)
+			(start -1.68 -0.95)
+			(end 1.68 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -11122,19 +11470,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 180)
-			(size 1.2 1.4)
+			(at -0.9125 0 180)
+			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(J6-Pin_1)")
 			(pintype "passive")
 			(uuid "5ff4654e-904a-4b20-955f-4da20474fb75")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 180)
-			(size 1.2 1.4)
+			(at 0.9125 0 180)
+			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/LED_DATA^{1}")
 			(pintype "passive")
 			(uuid "a315f089-3684-42b4-9644-3be69df728bf")
@@ -11259,6 +11607,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "745c69b7-20c5-42de-9a79-3aac2641a16d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "296f3f05-d477-4d38-9fa5-09e976a7bc8c")
 			(effects
 				(font
 					(size 1 1)
@@ -11793,7 +12154,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 0 1.68 270)
 			(layer "F.Fab")
 			(uuid "65531a97-8bb0-4b2f-9ccb-885a0c5964f5")
@@ -11815,7 +12176,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -11838,10 +12199,29 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54632414-2ddb-4dad-b590-f90e0ad65fe4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f31e578f-c5f9-41f5-9d36-83d59f83691d")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11945,7 +12325,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "92067f30-26c1-4529-998c-6ad9084bdffc")
@@ -11983,6 +12363,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a9c021a6-7377-4a7f-a1f6-8a5621f1bbdb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14c18f8b-c1e2-4bc6-9ba9-5ae102baf3e5")
 			(effects
 				(font
 					(size 1 1)
@@ -12125,7 +12518,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12148,10 +12541,29 @@
 				)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dd12a64-0f74-449f-89d4-3cbb40baf4fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6f3cc62e-b6da-4d09-9998-a609b814bafb")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12238,14 +12650,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "1bb25d19-cc72-4637-aa29-504eda49dc7b")
 		(at 137.91 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R10"
-			(at 0 2.54 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "67533baa-f6f1-4b16-99c7-6a86f19d79c9")
 			(effects
@@ -12280,7 +12692,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -12305,11 +12717,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "757e1250-d97b-41fb-9d70-9bcf5e90eec6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/41bc256e-3913-4466-97e9-5a7b77f09388")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -12332,8 +12764,8 @@
 			(uuid "98253737-f57b-46b2-abfd-ab1d6b85be17")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12366,19 +12798,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP15-C)")
 			(pintype "passive")
 			(uuid "98f040f2-b71a-40d9-b27d-0642bd4813fc")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO16")
 			(pintype "passive")
 			(uuid "fb326470-5531-4abc-bea0-92347cee9fbc")
@@ -12449,6 +12881,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0c7d86ed-81eb-4a92-ab29-2433f3a81405")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12645,6 +13091,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c66145b8-b45e-4c35-b253-dbe1541643f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/d8e426a0-4362-4e7b-af29-36f157529359")
 		(sheetname "/")
@@ -12836,6 +13296,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee48b6be-24df-4300-b3a6-f905a35e6d89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/c2440241-0b98-41e8-82f4-fb2c16dc5fa2")
 		(sheetname "/")
@@ -12969,14 +13443,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "7198acdb-3d4a-40ab-8943-63127ec4af6e")
 		(at 104.55 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0 -2.1 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "24bbdeb6-6579-4468-bbbe-db388965bba8")
 			(effects
@@ -13011,7 +13485,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -13036,11 +13510,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9fb0a10e-5450-41bb-a408-401a3a251788")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f943c195-403b-4d95-8a7d-6e4da0ce61e6")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -13063,8 +13557,8 @@
 			(uuid "73327e72-7964-4c25-a708-023263f4f19b")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -13097,19 +13591,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP11-C)")
 			(pintype "passive")
 			(uuid "66bea4d5-9465-43a3-b8d1-b8ca29d98f79")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO17")
 			(pintype "passive")
 			(uuid "b30ccd6d-2b7f-481d-acbb-83d745dc01c0")
@@ -13127,14 +13621,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "79fbaaf7-07ca-42f6-8d37-2e11f7b27ac7")
 		(at 117.25 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 2.3 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "d3678090-233a-4271-aa86-e0db6e5faa4f")
 			(effects
@@ -13169,7 +13663,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -13194,11 +13688,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "73384c64-019a-45de-9125-d46db6ff4bd3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bf935265-734f-4c13-8127-a28380b19dd9")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -13221,8 +13735,8 @@
 			(uuid "297355ba-c4be-45ad-bde7-abc1a8c97e58")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -13255,19 +13769,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP8-C)")
 			(pintype "passive")
 			(uuid "0149b136-6bcc-4854-b519-7f5bbb05dc45")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO18")
 			(pintype "passive")
 			(uuid "207b0b1d-ffef-412b-82c8-3bf6fb17163c")
@@ -13285,14 +13799,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "802df8d8-9212-44e8-bcac-95eeba01d624")
 		(at 114.71 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 -2.16 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "84eddf8a-4a2d-4725-8525-a500b8199ac5")
 			(effects
@@ -13327,7 +13841,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -13352,11 +13866,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c8f0c003-32b5-4da0-9a45-843dca0e2774")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/cb882f2d-f261-47a1-9d4a-aa6e851d37bd")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -13379,8 +13913,8 @@
 			(uuid "c3462e2f-5e7d-477d-a890-2b1201079855")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -13413,19 +13947,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP8-C)")
 			(pintype "passive")
 			(uuid "eba0bc8c-b4aa-44de-ac37-6277f80cd733")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO20")
 			(pintype "passive")
 			(uuid "b02acade-a00d-4232-b397-8ef405edbb6c")
@@ -13443,14 +13977,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "8b221ce5-d87a-463e-87a3-9116d7f87667")
 		(at 107.09 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0 2.16 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "d7923942-89c5-4aaf-b9db-bccf6e78b84b")
 			(effects
@@ -13485,7 +14019,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -13510,11 +14044,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9b037d80-4e02-4d51-8dd8-746d961bfc9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0414ab0c-b63f-4be2-b6ed-454e20cbf22b")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -13537,8 +14091,8 @@
 			(uuid "8df9f396-072a-4a49-a263-2d467c1f5f5a")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -13571,19 +14125,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP11-C)")
 			(pintype "passive")
 			(uuid "345026f0-d674-4eb5-bb08-c8448ed2b69e")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO19")
 			(pintype "passive")
 			(uuid "340261bd-7c60-4fba-91f8-40528523125a")
@@ -13654,6 +14208,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "14661cfb-d799-4c0c-90da-296b7749bc43")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -13850,6 +14418,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bbeadb6e-7552-44ab-bb28-4c645271087b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/990d2d4e-3426-4fe7-9e1e-d13ea14238f6")
 		(sheetname "/")
@@ -14036,6 +14618,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Digikey Part" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "34187245-8b14-405d-a801-a3a95645061c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -14447,6 +15043,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "926e8980-b7e3-4f78-ab5b-d20920d3cc39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/9a731e29-f9f9-4f53-b842-108d32f64a36")
 		(sheetname "/")
@@ -14580,14 +15190,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "adf21412-55a6-4d27-87f2-309f42130880")
 		(at 135.37 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R9"
-			(at 0 -1.82 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "49e0a4f0-0ba7-4932-b2f1-2d0af9999a28")
 			(effects
@@ -14622,7 +15232,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -14647,11 +15257,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fa795c61-cfd5-49d1-be23-5158d5d863ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/03ea6a54-0702-468b-8e44-7219d0da1605")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -14674,8 +15304,8 @@
 			(uuid "e3cb8df5-393b-4971-a24a-b9f7d498501f")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -14708,19 +15338,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP15-C)")
 			(pintype "passive")
 			(uuid "4b61c90d-69d0-4ff7-b7f2-03c5972c97dc")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO23")
 			(pintype "passive")
 			(uuid "47bbdeed-06c8-435c-a651-ce7bbb4bb981")
@@ -14738,14 +15368,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "bc8ac4e5-963d-45c9-930f-97aaf4ffb047")
 		(at 127.75 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R7"
-			(at 0 1.8 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "87197905-7f4b-47a0-944a-a49b91300894")
 			(effects
@@ -14780,7 +15410,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -14805,11 +15435,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bca64d33-22ef-44b8-94b9-22c20eccbfb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/376deb52-36fe-4a28-98c3-e1a5c470ed27")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -14832,8 +15482,8 @@
 			(uuid "18ad861d-c9ed-4535-bd6d-f70840574337")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -14866,19 +15516,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP13-C)")
 			(pintype "passive")
 			(uuid "365eaf9e-1969-4817-a9df-7918c34cd93f")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO22")
 			(pintype "passive")
 			(uuid "a187bdb1-a068-4bfe-9cb9-5ed91ec04119")
@@ -17686,6 +18336,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0b43e870-a5a6-4e4b-9348-ef30869a5d55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/91aea4bc-9288-4cd6-bc1d-01b28cb82795")
 		(sheetname "/")
@@ -17819,14 +18483,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "fddc4016-08d7-49ca-b732-fe4d7ee19aa4")
 		(at 125.21 86.55 90)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor handsolder")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0 -2.06 0)
+			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "1f828c4c-759d-4b67-bf95-e556f6d88a0f")
 			(effects
@@ -17861,7 +18525,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor, small US symbol"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -17886,11 +18550,31 @@
 				(justify mirror)
 			)
 		)
+		(property "Digikey Part" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07bc5ffe-a7f7-4c0c-9a05-e4fb2d23041d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a8ea33a6-d6c1-4892-b4ea-8ff4e3c4fb85")
 		(sheetname "/")
 		(sheetfile "XiaoCarrierARGB.kicad_sch")
-		(attr smd)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -17913,8 +18597,8 @@
 			(uuid "0eaee0ca-d2b7-419a-9ce3-eb09407542eb")
 		)
 		(fp_rect
-			(start -1.85 0.95)
-			(end 1.85 -0.95)
+			(start -1.68 0.95)
+			(end 1.68 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -17947,19 +18631,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1 0 90)
-			(size 1.2 1.4)
+			(at -0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "Net-(JP13-C)")
 			(pintype "passive")
 			(uuid "878b0ca1-64e4-44b0-962b-94bb2d29f24e")
 		)
 		(pad "2" smd roundrect
-			(at 1 0 90)
-			(size 1.2 1.4)
+			(at 0.9125 0 90)
+			(size 1.025 1.4)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.208333)
+			(roundrect_rratio 0.243902)
 			(net "/GPIO21")
 			(pintype "passive")
 			(uuid "3336179f-5af8-4a74-bb9a-aa4f8f95750b")
