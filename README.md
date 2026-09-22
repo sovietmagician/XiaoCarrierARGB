@@ -24,7 +24,7 @@ Adressable RGB carrier board for Seeed Xiao Esp32 modules, deisgned for c6 or s3
 
 ### BoM
 [Interactive Bill of Materials](https://sovietmagician.github.io/XiaoCarrierARGB/bom/ibom.html "IBOM")
-Component Manufacturer Part Numbers are included for ICs and certain passives with critical values. In addition Digikey and LCSC(chinese) part distributor numbers are included in the BoM as well. The part numbers for passives have been left blank as an excercise for the reader. Note for C2 C3 C8, these capacitors should be rated to 30V at a minimum.
+Component Manufacturer Part Numbers are included for ICs and certain passives with critical values. In addition Digikey and LCSC(chinese) part distributor numbers are included in the BoM as well. The part numbers for passives have been left blank as an excercise for the reader. Note for C2 C3 C8, __these capacitors must be rated to 30V at a minimum__.
 ### Notes about componet placement/population
 The following components are NOT OPTIONAL
 - C2 C3 C6 C7
